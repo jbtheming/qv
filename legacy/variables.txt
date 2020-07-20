@@ -1,0 +1,56 @@
+# Created by Octave 5.2.0, Mon Jul 20 18:34:37 2020 GMT <unknown@X1EXTREMEJH>
+# name: QV
+# type: scalar
+5.2238284805530996e-06
+
+
+# name: QVc
+# type: scalar
+2.1346762989995195e-06
+
+
+# name: Igamma
+# type: scalar
+2.5853305936518049e-08
+
+
+# name: del
+# type: scalar
+0.00069444440305233002
+
+
+# name: s
+# type: scalar
+6.8935273128678721e-05
+
+
+# name: s0
+# type: scalar
+7.7174165542030676e-05
+
+
+# name: theta
+# type: scalar
+0.79056939148128991
+
+
+# name: u
+# type: scalar
+0.020833332091569901
+
+
+# name: v
+# type: scalar
+0.00013410326538740135
+
+
+# name: v0
+# type: scalar
+0.00015013079854511556
+
+
+# name: w
+# type: scalar
+0.46999999999999997
+
+
